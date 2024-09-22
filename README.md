@@ -1,4 +1,5 @@
 # U.S. Pet Households: A State-by-State Breakdown Dashboard
+![U.S. Pet Households Dashboard](CatsvsDogs.png)
 
 This repository contains a Tableau Dashboard that provides a comprehensive visualization of pet ownership across the United States, broken down by state. The dashboard offers insights into the distribution and percentage of households with pets, allowing users to explore pet ownership trends across different regions.
 
