@@ -14,3 +14,6 @@ The U.S. Pet Households: A State-by-State Breakdown dashboard is designed to giv
 * Dynamic Filters: Allows users to filter data by different parameters (e.g., pet type, total number of households, etc., if applicable).
 * Hover Tooltips: Display detailed statistics when hovering over specific states.
 * Visual Insights: Use charts and graphs to better understand pet ownership distribution across the U.S.
+ 
+[Tableau Link](https://public.tableau.com/app/profile/mintu.karthik/viz/U_S_PetHouseholdsAState-by-StateBreakdownDashboard/Dashboard1?publish=yes)
+
